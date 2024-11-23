@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pankaj Gupta"
+title                    : "Tanmoy Bhowmik"
 title_separator          : "-"
-name                     : &name "Pankaj Gupta"
-description              : &description "Graduate Student at University of British Columbia"
-url                      : https://pankajkgupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tanmoy Bhowmik"
+description              : &description "Dept. of Physics at SUST"
+url                      : https://tanmoybhowmik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pankajkgupta.github.io"
+repository               : "tanmoybhowmik.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pankaj Gupta"
-  avatar           : "profile.png"
-  bio              : "Graduate Student at University of British Columbia, Neuroscience"
-  location         : "Vancouver, Canada"
+  name             : "Tanmoy Bhowmik"
+  avatar           : "profile.jpg"
+  bio              : "Dept. of Physics at SUST"
+  location         : "Sylhet, Bangladesh"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=3Q5BbaAAAAAJ"
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Pankaj-Gupta-67"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pankajkgupta"
+  github           : "tanmoybhowmik"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-6814-2812"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "pguptasays"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
