@@ -1,0 +1,16 @@
+---
+title: "PyMouseTracks: flexible computer vision and RFID-based system for multiple mouse tracking and behavioral assessment"
+collection: publications
+permalink: /publication/2023-04-05-pymousetracks
+excerpt: 'PyMouseTracks (PMT) is a scalable and customizable computer vision and radio frequency identification (RFID)-based system for multiple rodent tracking and behavior assessment that can be set up within minutes in any user-defined arena at minimal cost. PMT is composed of the online Raspberry Pi (RPi)-based video and RFID acquisition with subsequent offline analysis tools. The system is capable of tracking up to six mice in experiments ranging from minutes to days. PMT maintained a minimum of 88% detections tracked with an overall accuracy >85% when compared with manual validation of videos containing one to four mice in a modified home-cage. As expected, chronic recording in home-cage revealed diurnal activity patterns. In open-field, it was observed that novel noncagemate mouse pairs exhibit more similarity in travel trajectory patterns than cagemate pairs over a 10-min period. Therefore, shared features within travel trajectories between animals may be a measure of sociability that has not been previously reported. Moreover, PMT can interface with open-source packages such as DeepLabCut and Traja for pose estimation and travel trajectory analysis, respectively. In combination with Traja, PMT resolved motor deficits exhibited in stroke animals. Overall, we present an affordable, open-sourced, and customizable/scalable mouse behavior recording and analysis system.'
+date: 2023-04-05
+venue: 'eNeuro'
+paperurl: 'https://www.eneuro.org/content/10/5/ENEURO.0127-22.2023'
+citation: 'T Fong, H Hu, P Gupta, B Jury, TH Murphy'
+---
+
+<a href='https://www.eneuro.org/content/10/5/ENEURO.0127-22.2023'>Download paper here</a>
+
+PyMouseTracks (PMT) is a scalable and customizable computer vision and radio frequency identification (RFID)-based system for multiple rodent tracking and behavior assessment that can be set up within minutes in any user-defined arena at minimal cost. PMT is composed of the online Raspberry Pi (RPi)-based video and RFID acquisition with subsequent offline analysis tools. The system is capable of tracking up to six mice in experiments ranging from minutes to days. PMT maintained a minimum of 88% detections tracked with an overall accuracy >85% when compared with manual validation of videos containing one to four mice in a modified home-cage. As expected, chronic recording in home-cage revealed diurnal activity patterns. In open-field, it was observed that novel noncagemate mouse pairs exhibit more similarity in travel trajectory patterns than cagemate pairs over a 10-min period. Therefore, shared features within travel trajectories between animals may be a measure of sociability that has not been previously reported. Moreover, PMT can interface with open-source packages such as DeepLabCut and Traja for pose estimation and travel trajectory analysis, respectively. In combination with Traja, PMT resolved motor deficits exhibited in stroke animals. Overall, we present an affordable, open-sourced, and customizable/scalable mouse behavior recording and analysis system.
+
+Recommended citation: T Fong, H Hu, P Gupta, B Jury, TH Murphy
